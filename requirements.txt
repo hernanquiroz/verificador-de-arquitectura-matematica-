@@ -1,4 +1,0 @@
-streamlit>=1.38.0
-z3-solver>=4.13.0
-sympy>=1.13
-pypdf>=5.0.0
